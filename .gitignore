@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# KOS Project specific
+kos_reports/
+reports/
+knowledge_base/
+*.log
+reputation_db.json
+knowledge_store.json
