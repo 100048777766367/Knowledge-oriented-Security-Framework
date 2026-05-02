@@ -224,3 +224,21 @@ knowledge_base/
 *.log
 reputation_db.json
 knowledge_store.json
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs & Temp files
+*.log
+*.tmp
+
+# KOS Data 
+knowledge_base/*.json
+!knowledge_base/reputation_db_sample.json
+reports/incident_*.md
+reports/remedy_*.sh
+
+# Virtual Environment
+venv/
+.venv/
