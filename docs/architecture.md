@@ -1,5 +1,3 @@
----
-
 # 🏗️ KOS System Architecture (Kiến trúc Hệ thống KOS)
 
 Hệ thống KOS (Knowledge-oriented Security Framework) được xây dựng dựa trên triết lý **Separation of Concerns**, mô phỏng quá trình xử lý thông tin của một thực thể thông minh: **Cảm nhận → Tư duy → Hành động**.
