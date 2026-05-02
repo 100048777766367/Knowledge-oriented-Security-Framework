@@ -70,6 +70,6 @@ python src/main.py
 ---
 
 ## 📜 Giấy phép
-Dự án phát hành theo giấy phép **MIT License**. Xem chi tiết trong file `[Có vẻ như kết quả này không an toàn để hiển thị. Hãy thay đổi một chút và thử lại!]`.
+Dự án phát hành theo giấy phép **MIT License**.
 
 ---
