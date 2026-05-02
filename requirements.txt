@@ -1,2 +1,14 @@
-watchdog==3.0.0
-pip freeze > requirements.txt
+# Giám sát file log thời gian thực
+watchdog>=4.0.0
+
+# Xử lý cấu hình hệ thống (settings.yaml)
+pyyaml>=6.0.1
+
+# Xử lý dữ liệu, gom cụm và phân tích Layer (A-E)
+pandas>=2.2.0
+
+# Gửi cảnh báo Telegram/Slack hoặc gọi API Wazuh
+requests>=2.31.0
+
+# Xử lý template 
+jinja2>=3.1.3
